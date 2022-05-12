@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haroon Hayat</h1>
-<h3 align="center">Data Scientist | Data Analyst | Web developer | Computer Science Graduated</h3>
 
-- 🔭 I’m currently learning **Data Science**
-
-- 🌱 I’m currently learning **EDA, Machine Learning and Python**
-
-- 👯 I’m looking to collaborate on **Data Science Project and Kaggle Competition**
-
-- 💬 Ask me about **Python, javascript, and data**
 
 - 📫 How to reach me **hayatharoon@yahoo.com**
 
