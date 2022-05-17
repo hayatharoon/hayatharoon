@@ -13,3 +13,5 @@
 [![Haroon GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatharoon)](https://github.com/hayatharoon/github-readme-stats)
 
 [![haroon Hayat github activity graph](https://activity-graph.herokuapp.com/graph?username=hayatharoon)](https://github.com/hayatharoon/github-readme-activity-graph)
+
+[![Haroon Hayat github activity graph](https://activity-graph.herokuapp.com/graph?username=hayatharoon&theme=dracula)](https://github.com/hayatharoon/github-readme-activity-graph)
