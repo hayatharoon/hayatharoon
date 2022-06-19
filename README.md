@@ -36,7 +36,6 @@
   
   - 👋 Hi there 👋, My name is Haroon Hayat
   - 🔭 I’m currently working on JavaScript and React.js
-  - 🧠 Currently focusing on Computer Vision and Deep Learning in general.
   - 👯 I’m looking to collaborate on Full Stack Development
   - 💬 Ask me about Programming, Javascript, React and Python
   - 🤗 Always excited to collaborate and growing together.
