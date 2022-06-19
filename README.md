@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ParthGohil21/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Haroon Hayat;A%20Passionate%20WEB%20Dev%20from%20PAK;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/hayatharoon/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Haroon-Hayat;A%20Passionate%20Web%20Dev%20from%20Pakistan!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social Media Handles -->
