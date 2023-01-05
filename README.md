@@ -35,8 +35,8 @@
 <p align="center">
   
   - 👋 Hi there 👋, My name is **Haroon Hayat**
-  - 🔭 I’m currently working on JavaScript and React.js
-  - 👯 I’m looking to collaborate on Full Stack Development with JavaScript, Reactjs and Django.
+  - 🔭 I’m currently working as a Frontend Developer
+  - 👯 I’m looking to collaborate on Full Stack Development with MERN stack.
   - 💬 Ask me about Programming, Javascript, Reactjs and FrontEnd development.
   - 🤗 Always excited to collaborate and growing together.
   - 📥 Reach out me through my mail: hayat_haroon@yahoo.com or [Twitter](https://twitter.com/haron_hayat).
