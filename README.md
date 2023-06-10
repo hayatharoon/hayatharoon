@@ -35,7 +35,7 @@
 <p align="center">
   
   - 👋 Hi there 👋, My name is **Haroon Hayat**
-  - 🔭 I’m currently working as a Frontend Developer
+  - 🔭 I’m currently working as a React Js Developer 
   - 👯 I’m looking to collaborate on Full Stack Development with MERN stack.
   - 💬 Ask me about Programming, Javascript, Reactjs and FrontEnd development.
   - 🤗 Always excited to collaborate and growing together.
