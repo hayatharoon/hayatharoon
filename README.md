@@ -51,11 +51,11 @@
   </p>
 
 <!--Github Stats-->
-<h2 align="center">⚡ Github</h2>
-<a href="https://github.com/hayatharoon/github-readme-stats">
+<div align="center">
+  <h2 align="center">⚡ Github</h2>
+<a href="https://github.com/hayatharoon/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatharoon&theme=blue-green&show_icons=true)" />
 </a>
-<a href="https://github.com/hayatharoon/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayatharoon&theme=chartreuse-dark" />
-</a>
+</div>
+
 
