@@ -12,7 +12,7 @@
   <a href="https://twitter.com/haron_hayat">
   <img align="center" src="https://img.shields.io/twitter/follow/haron_hayat?label=Twitter&logo=twitter&style=for-the-badge" />  
 </a>
-  <a href="https://www.linkedin.com/in/haroon-hayat-24b253204/">
+  <a href="https://www.linkedin.com/in/hayatharoon/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="https://haroonhayat.hashnode.dev/">
@@ -35,11 +35,11 @@
 <p align="center">
   
   - 👋 Hi there 👋, My name is **Haroon Hayat**
-  - 🔭 I’m currently working as a React Js Developer 
-  - 👯 I’m looking to collaborate on Full Stack Development with MERN stack.
+  - 🔭 I’m currently working as a Full Stack Engineer at Productbox
+  - 👯 I’m looking to collaborate on Full Stack Development.
   - 💬 Ask me about Programming, Javascript, Reactjs and FrontEnd development.
   - 🤗 Always excited to collaborate and growing together.
-  - 📥 Reach out me through my mail: hayat_haroon@yahoo.com or [Twitter](https://twitter.com/haron_hayat).
+  - 📥 Reach out me through my mail: hayat_haroon@yahoo.com or [LinkedIn](https://www.linkedin.com/in/hayatharoon/).
   
 </p>
 <br>
