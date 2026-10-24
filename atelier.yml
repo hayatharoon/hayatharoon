@@ -6,11 +6,10 @@ username: hayatharoon
 theme: minimal
 name: Haroon Hayat
 tagline: Senior Full Stack & AI Engineer
-about:
-  - 5+ years shipping web products for UAE, Saudi and UK teams
-  - Agentic LLM systems and AI video pipelines at Sendr
-  - Now designing and building websites for schools in the Gulf
-  - Open to freelance work
+about:                     # the header shows 3 lines, ~44 characters each
+  - 5+ years shipping web products, UAE/KSA/UK
+  - AI agents and video pipelines at Sendr
+  - Websites for Gulf schools · open to freelance
 stack: [typescript, javascript, react, nextdotjs, nodedotjs, tailwindcss, vercel, claude]
 socials:
   github: hayatharoon
