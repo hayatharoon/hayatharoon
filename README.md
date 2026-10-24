@@ -1,31 +1,77 @@
-# Haroon Hayat
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Haroon Hayat, Senior Full Stack & AI Engineer"/>
+</p>
 
-**Senior Full Stack & AI Engineer** · LLM and agentic systems
-Remote from Pakistan · open to roles worldwide and to relocation
+<p align="center">
+  <a href="https://www.linkedin.com/in/hayatharoon/"><img src="https://img.shields.io/badge/LinkedIn-hayatharoon-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:haroonhayat735@gmail.com"><img src="https://img.shields.io/badge/Email-haroonhayat735@gmail.com-111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open_to-remote_%26_relocation-14d3a8?style=flat-square" alt="Open to remote and relocation"/>
+</p>
 
-I've spent 5+ years shipping production B2B SaaS, and I now specialise in AI and LLM systems. I've worked remotely with teams in the UK, US, France and the GCC, including 2.5 years shipping for clients in Riyadh and Dubai. I'm strongest when I own a feature end to end, from backend architecture to UI, in fast release cycles.
+<p align="center">
+  <b>5+ years shipping production B2B SaaS. These days: AI agents that actually ship.</b><br/>
+  Remote with teams in the 🇬🇧 UK, 🇺🇸 US, 🇫🇷 France and the GCC, including 2.5 years for clients in Riyadh and Dubai.
+</p>
 
-## Selected work
+<table align="center">
+  <tr>
+    <td align="center"><h2>520M+</h2><sub>records behind the AI search I built</sub></td>
+    <td align="center"><h2>5M+</h2><sub>personalised pages generated</sub></td>
+    <td align="center"><h2>1,800+</h2><sub>companies on platforms I built for</sub></td>
+    <td align="center"><h2>20K</h2><sub>concurrent exam sessions</sub></td>
+  </tr>
+</table>
 
-- **SendrAI** (Sendr, UK): designed a two-tier agentic LLM system that turns plain-English requests into verified business data. Added strict output validation and made the pipeline 3–4x faster.
-- **LipSync** (Sendr): a generative video and voice-cloning pipeline where one recording becomes thousands of personalised videos. Rebuilt it for 12x faster output; 5M+ landing pages generated with it.
-- **sendr-triage-bot**: a production multi-agent system on Anthropic's Claude Agent SDK, with MCP tool servers, that triages, deduplicates and routes engineering issues.
-- **AstroLabs** (Riyadh / Dubai): built full-stack features for setupinsaudi.com and astrolabs.com, used by 1,800+ companies setting up in Saudi Arabia and the UAE. Contributed to Najm, their AI licensing consultant.
-- **FirmSanad** (Riyadh): built the incorporation platform frontend, including AI-guided intake and the MISA, CR, ZATCA and GOSI registration flow.
-- **Mereos** (Paris): exam portals and a proctoring Chrome extension, used by 100+ institutions including ESCP and emlyon, at 20,000 concurrent sessions.
+## ⚡ What I've built
 
-## Experience
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 SendrAI</h3>
+      <sub>Sendr · UK</sub><br/>
+      Two-tier agentic LLM system: a meta-agent turns plain English into tasks, row-level agents search and call tools. Strict output validation, <b>3–4x faster</b>.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 LipSync</h3>
+      <sub>Sendr · UK</sub><br/>
+      Generative video and voice cloning: one recording becomes thousands of personalised videos. Rebuilt for <b>12x faster</b> output.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🧭 sendr-triage-bot</h3>
+      <sub>Claude Agent SDK · MCP</sub><br/>
+      Production multi-agent system with MCP tool servers that triages, deduplicates and routes engineering issues.
+    </td>
+    <td valign="top">
+      <h3>🇸🇦 AstroLabs &amp; Najm</h3>
+      <sub>Riyadh · Dubai</sub><br/>
+      Full-stack features for setupinsaudi.com and astrolabs.com, used by <b>1,800+ companies</b>. Contributed to Najm, their AI licensing consultant.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🏛️ FirmSanad</h3>
+      <sub>Riyadh</sub><br/>
+      Incorporation platform frontend: AI-guided intake, MISA, CR, ZATCA and GOSI registration flows.
+    </td>
+    <td valign="top">
+      <h3>🎓 Mereos</h3>
+      <sub>Paris · EdTech</sub><br/>
+      Exam portals and a proctoring Chrome extension for <b>100+ institutions</b>, including ESCP and emlyon.
+    </td>
+  </tr>
+</table>
 
-| Company | Role | When |
-|---|---|---|
-| Sendr (UK, remote) | Full Stack & AI Engineer | Dec 2024 – present |
-| Productbox | Full Stack Engineer | Jan 2024 – Aug 2025 |
-| JMM Technologies | Frontend Engineer | May 2023 – Jan 2024 |
-| Gitlogix | Frontend Engineer | Jan 2023 – May 2023 |
-| AtriaLogic & IT Hub | Frontend Engineer | 2021 – Dec 2022 |
+## 🛣️ Journey
 
-BS Computer Science, University of Malakand · Silver Medal
+```text
+2024 ─ now   Sendr (UK, remote) ........... Full Stack & AI Engineer
+2024 ─ 2025  Productbox ................... Full Stack Engineer
+2023 ─ 2024  JMM Technologies ............. Frontend Engineer
+2023         Gitlogix ..................... Frontend Engineer
+2021 ─ 2022  AtriaLogic & IT Hub .......... Frontend Engineer
+2017 ─ 2021  University of Malakand ....... BS Computer Science · 🥈 Silver Medal
+```
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/hayatharoon/) · [haroonhayat735@gmail.com](mailto:haroonhayat735@gmail.com) · [X](https://x.com/hanohayat)
+<p align="center"><sub>Got something hard to build? <a href="https://www.linkedin.com/in/hayatharoon/">Let's talk.</a></sub></p>
