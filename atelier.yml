@@ -1,0 +1,21 @@
+# Readme Atelier: edit this file, commit, and the profile rebuilds itself.
+# Themes: minimal · y2k · minecraft · terminal · pixel · garden
+# Docs: https://github.com/monokernn/readme-atelier#config
+
+username: hayatharoon
+theme: minimal
+name: Haroon Hayat
+tagline: Senior Full Stack & AI Engineer
+about:
+  - 5+ years shipping web products for UAE, Saudi and UK teams
+  - Agentic LLM systems and AI video pipelines at Sendr
+  - Now designing and building websites for schools in the Gulf
+  - Open to freelance work
+stack: [typescript, javascript, react, nextdotjs, nodedotjs, tailwindcss, vercel, claude]
+socials:
+  github: hayatharoon
+  x: hanohayat
+  linkedin: hayatharoon
+  website: haroonhayat.hashnode.dev
+repos: [BugBook, react-design-patterns, discord-clone, haroon-portfolio]
+sections: [header, socials, stats, activity, repos, stack, footer]
